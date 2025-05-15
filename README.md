@@ -4,7 +4,7 @@
 - 🌱 Currently learning JavaScript & HTML5/CSS
 - 💬 Ask me about anything product-related, data, or pottery.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: when I was 6 I broke all of my front teeth while in a jumping competition with an imaginary friend (I won!)
+- ⚡ Fun fact: when I was 6 I broke all of my front teeth while in a jumping competition with an imaginary friend (I won, but at what cost...)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
